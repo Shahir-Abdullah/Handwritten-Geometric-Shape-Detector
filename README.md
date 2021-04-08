@@ -7,7 +7,8 @@ I created a python desktop application. This application allows the user to draw
 2. The model : shapedetector_model_4b.h5
 
 # Instructions to run the application : 
-The python file is named "app3.py". Type python3 app3.py to run the application. Also keep the model file 'shapedetector_model_4b.h5' in the same directory where the "app3.py" is.
+1. Keep the model file 'shapedetector_model_4b.h5' in the same directory where the "app3.py" is.
+2. Type 'python3 app3.py' to run the application.
 
 There are tons of files in this project. Don't get overwhelmed. I didn't have time to clean those. Also I was trying to make the model better. For detecting the 4 shapes all you need is app3.py file and 'shapedetector_model_4b.h5' file. These 2 files are the most stable ones. Keep these in one directory and run python3 app3.py. 
 
