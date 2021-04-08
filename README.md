@@ -14,3 +14,8 @@ There are tons of files in this project. Don't get overwhelmed. I didn't have ti
 
 # Requirements : 
 You might need some modules installed in your pc. After running app3.py if the console asks you to download those just install those. 
+
+# Video demo : 
+1. youtube link : https://youtu.be/Tf9NPc8TVHQ 
+
+
