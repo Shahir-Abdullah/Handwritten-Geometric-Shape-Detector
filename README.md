@@ -30,3 +30,10 @@ I created a python desktop application. This application allows the user to draw
 4. Duplicate environment from requirement file : “pip3 install -r requirements.txt”
 
 Now all the modules will be installed on that environment.
+
+# Dataset used : 
+
+1. https://www.kaggle.com/datasets/shahirabdullah/handwritten-triangles 
+2. https://www.kaggle.com/datasets/shahirabdullah/handwritten-squares 
+3. https://www.kaggle.com/datasets/shahirabdullah/handwritten-rectangles 
+4. https://www.kaggle.com/datasets/shahirabdullah/handwritten-circles 
