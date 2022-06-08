@@ -1,18 +1,22 @@
 # Handwritten-Geometric-Shape-Detector
 
-# Description : 
+# Description :
 
-I created a python desktop application. This application allows the user to draw any geometric shape. Then the python script takes the shape and feeds the picture into a machine learning model. I used CNN model. The model is trained under 2000 images of handwritten circle, square, rectangle, triangle. The model predicts the shape of the drawn image and tells the user the shape and how confident the model is about the detection through a prediction score. 
+I created a python desktop application. This application allows the user to draw any geometric shape. Then the python script takes the shape and feeds the picture into a machine learning model. I used CNN model. The model is trained under 2000 images of handwritten circle, square, rectangle, triangle. The model predicts the shape of the drawn image and tells the user the shape and how confident the model is about the detection through a prediction score.
 
-# Main files : 
+# Main files :
 
-1. The python script : application.py 
+1. The python script : application.py
 2. The model : shapedetector_model_4b.h5
 
-# Installation Requirements : 
+# Instructions to run the application :
 
-1. Need to have pip3 installed. 
-2. Need to have python3 installed. 
+1. Type 'python3 application.py' to run the application.
+
+# Installation Requirements :
+
+1. Need to have pip3 installed.
+2. Need to have python3 installed.
 
 # Setting up virtual environment (Optional)
 
@@ -21,14 +25,8 @@ I created a python desktop application. This application allows the user to draw
 3. Deactivate env : “dectivate”
 4. Duplicate environment from requirement file : “pip3 install -r requirements.txt”
 
-Now all the modules will be installed on that environment. 
-
-# Instructions to run the application : 
-
-1. Type 'python3 application.py' to run the application.
+Now all the modules will be installed on that environment.
 
 # Video demo :
- 
-1. youtube link : https://youtu.be/Tf9NPc8TVHQ 
 
-
+1. youtube link : https://youtu.be/Tf9NPc8TVHQ
