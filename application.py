@@ -19,7 +19,7 @@ from PIL.ImageFilter import (
 # ML section
 
 #tensoflow model loading
-model = tf.keras.models.load_model('shapedetector_model_4b.h5')
+model = tf.keras.models.load_model('model/shapedetector_model_4b.h5')
 
 #show the model architecture 
 #shapedetector_model.summary()
